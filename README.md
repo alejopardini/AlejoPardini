@@ -10,9 +10,9 @@ Sobre mí
 Proyectos Destacados
 Aquí hay algunos de los proyectos en los que he estado trabajando recientemente:
 
--Tred (Enlace al Proyecto - pendiente): es un proyecto de desarrollo de una pagina web para el gimnasio de unos amigos.
+-Tred ([alejopardini.github.io/Tred/]): es un proyecto de desarrollo de una pagina web para el gimnasio de unos amigos.
 -EstudioFernandez (Enlace al Proyecto - pendiente): es un proyecto de desarrollo de una pagina web para el estudio jurídico donde trabaja un amigo.
--TigreBlanco (Enlace al Proyecto - pendiente): es un proyecto de desarrollo de una pagina web con tienda online, de un emprendimiento de gin artesanal que tengo con un amigo.
+-TigreBlanco ([https://github.com/alejopardini/Entrega-Final]): es un proyecto de desarrollo en Django como trabajo final delñ curso de Python en CoderHouse.
 
 Contacto
 📫 Puedes contactarme a través de mi correo electrónico: alejopardini@gmail.com
@@ -40,9 +40,9 @@ About Me
 Featured Projects
 Here are some of the projects I've been working on recently:
 
-Tred (Link to Project - pending): A web development project for a gym owned by some friends.
+Tred ([alejopardini.github.io/Tred/]): A web development project for a gym owned by some friends.
 EstudioFernandez (Link to Project - pending): A web development project for the law firm where a friend works.
-TigreBlanco (Link to Project - pending): A web development project with an online store for a craft gin venture I have with a friend.
+TigreBlanco ([https://github.com/alejopardini/Entrega-Final]): It is a development project in Django as the final project of the Python course at CoderHouse.
 Contact
 📫 You can contact me via email: alejopardini@gmail.com.
 
